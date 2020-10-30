@@ -2,7 +2,7 @@
 
 ---
 
-**IN PROGRESS** `:sweat_smile:`  
+**IN PROGRESS** :sweat_smile:   
 
 ---
 
