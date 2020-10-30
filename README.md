@@ -1,7 +1,10 @@
 # 02-CSS-Bootstrap
 
-                        **IN PROGRESS** `:sweat_smile:`  
+---
 
+**IN PROGRESS** `:sweat_smile:`  
+
+---
 
 ## Description 
 
