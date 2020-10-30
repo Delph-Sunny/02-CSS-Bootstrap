@@ -1,6 +1,6 @@
 # 02-CSS-Bootstrap
 
-                        **IN PROGRESS** :sweat_smile:  
+                        **IN PROGRESS** `:sweat_smile:`  
 
 
 ## Description 
@@ -22,7 +22,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-Download the entire repository and unzip the files.
+Download the entire repository and unzip the files.  
 **Note:** Preserve the folder structure.
 
 
