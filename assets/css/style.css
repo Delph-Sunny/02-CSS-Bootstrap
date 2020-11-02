@@ -3,15 +3,28 @@
     
 }
 
-.container-fluid {
-    background: coral;
+
+#backgroundImage {    
+    background: url('../images/backgroundImage2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    height: 1200px; 
+    width: 100%;
 }
-span {
+
+.navbar-text {
     background-color: teal;
+    font-weight: bold;
+    font-size: 150% !important;
 }
+
 .navbar {
     background: lightgray;
+    
 }
+ 
 
 .footer {
     background-color:gray;
@@ -20,5 +33,6 @@ span {
     color: teal;
     position: fixed;
     bottom: 0;
+    left:0;
     width: 100%;
 }
