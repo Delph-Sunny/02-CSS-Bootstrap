@@ -1,19 +1,14 @@
+/***********************
+*  Google Font Family  *
+************************/
 * {
     font-family: 'Noto Serif', 'Calisto MT', serif;
     
 }
 
-
-#backgroundImage {    
-    background: url('../images/backgroundImage2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-   
-    height: 1200px; 
-    width: 100%;
-}
-
+/***********************
+*    Navigation Bar    *
+************************/
 .navbar-text {
     background-color: teal;
     font-weight: bold;
@@ -24,8 +19,39 @@
     background: lightgray;
     
 }
- 
 
+/***********************
+*   Background Image   *
+************************/
+.view {    
+    background-image: url('../images/backgroundImage2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1200px; 
+    width: 100%;
+    }
+ 
+/***********************
+*       Headers         *
+************************/   
+h1 {
+    color: teal;
+    font-weight: bolder;
+}
+
+
+/***********************
+*    Button in Form    *
+************************/
+.btn-primary {
+    background-color: teal;   
+}
+
+ 
+/***********************
+*       Footer         *
+************************/
 .footer {
     background-color:gray;
     border-top: 5px solid;
