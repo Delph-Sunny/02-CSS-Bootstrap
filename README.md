@@ -8,19 +8,19 @@
 
 ## Description 
 
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
+The Bootstrap portfolio should have the following criteria: 
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+   * Contain three pages: `index.html`, `portfolio.html` and `contact.html`
+   
+   * Have a navbar consistent on each page and with working links to About, Contact, and Portfolio pages
 
+   * Use semantic html
 
-## Table of Contents (Optional)
+   * Have A responsive layout
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+   * Responsive images
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+   * Have a sticky footer
 
 
 ## Installation
@@ -36,9 +36,8 @@ Double-click on index.html to see the page in an internet browser. Select a navi
 
 ## Credits
 
-*List your collaborators, if any, with links to their GitHub profiles.*
+Icon made by Pixel perfect from https://www.flaticon.com/
 
-Trilogy Education Services for the images
 
 ## License
 

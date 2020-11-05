@@ -30,8 +30,6 @@
     background-size: cover;
     background-position: center;
     background-color: #464646;
-    min-height: 100%;
-    min-width: 1024px;
    
 }
  
@@ -47,7 +45,7 @@ h1 {
 /***********************
 *    Button in Form    *
 ************************/
-.btn-primary {
+.btn-info {
     background-color: teal;   
 }
 
@@ -62,7 +60,7 @@ h1 {
     color: teal;
     position: fixed;
     bottom: 0;
-    left:0;
+    left: 0;
     width: 100%;
     font-size: 80% !important;
 }
