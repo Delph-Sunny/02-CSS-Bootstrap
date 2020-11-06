@@ -38,7 +38,7 @@ Icon made by Pixel perfect from https://www.flaticon.com/
 
 ## License
 
-Copyright (c) [2020] [DT]. Everyone is permitted to use, copy, and modify verbatim copies of this document.
+Copyright (c) 2020 DT. Everyone is permitted to use, copy, and modify verbatim copies of this document.
 
 ---
 [link]: https://delph-sunny.github.io/02-CSS-Bootstrap/
