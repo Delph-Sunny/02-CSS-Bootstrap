@@ -2,10 +2,6 @@
 
 ---
 
-**IN PROGRESS** :sweat_smile:   
-
----
-
 ## Description 
 
 The Bootstrap portfolio should have the following criteria: 
@@ -25,13 +21,14 @@ The Bootstrap portfolio should have the following criteria:
 
 ## Installation
 
-Download the entire repository and unzip the files.  
-**Note:** Preserve the folder structure.
+Click on this [link] (https://delph-sunny.github.io/02-CSS-Bootstrap/) or download the entire repository, unzip the files and double-click on `index.html` to see the page in an internet browser. 
+Select a navigation item to see another page.  
+**Note:** Preserve the folder structure if you download it.
 
 
-## Usage 
+## Images of a portfolio apparence  :mag_right:
 
-Double-click on index.html to see the page in an internet browser. Select a navigation item to see another page. 
+![992](./assets/template/992-index.png)
 
 
 ## Credits
