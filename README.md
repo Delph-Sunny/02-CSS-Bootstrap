@@ -1,6 +1,5 @@
 # 02-CSS-Bootstrap
 
----
 
 ## Description 
 
@@ -21,7 +20,7 @@ The Bootstrap portfolio should have the following criteria:
 
 ## Installation
 
-Click on this [link] (https://delph-sunny.github.io/02-CSS-Bootstrap/) or download the entire repository, unzip the files and double-click on `index.html` to see the page in an internet browser. 
+Click on this [link] or download the entire repository, unzip the files and double-click on `index.html` to see the page in an internet browser. 
 Select a navigation item to see another page.  
 **Note:** Preserve the folder structure if you download it.
 
@@ -41,4 +40,4 @@ Icon made by Pixel perfect from https://www.flaticon.com/
 Copyright (c) [2020] [DT]. Everyone is permitted to use, copy, and modify verbatim copies of this document.
 
 ---
-
+[link]: https://delph-sunny.github.io/02-CSS-Bootstrap/
