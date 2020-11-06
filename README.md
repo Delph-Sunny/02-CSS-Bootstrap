@@ -27,7 +27,8 @@ Select a navigation item to see another page.
 
 ## Images of a portfolio apparence  :mag_right:
 
-![992](./assets/template/992-index.png)
+![992-i](./assets/template/992-index.png)![992-p](./assets/template/992-portfolio.png)
+![992-c](./assets/template/992-contact.png)
 
 
 ## Credits
