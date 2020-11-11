@@ -41,4 +41,4 @@ Icon made by Pixel perfect from https://www.flaticon.com/
 Copyright (c) 2020 DT. Everyone is permitted to use, copy, and modify verbatim copies of this document.
 
 ---
-[link]: https://delph-sunny.github.io/02-CSS-Bootstrap/
+[link]: https://delph-sunny.github.io/02-Responsive_Portfolio_with_Boothstrap/.
